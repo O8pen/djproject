@@ -3,7 +3,7 @@ from django.http import HttpResponse
 
 posts = [
     {
-        'author': 'Burak Alp',
+        'author': 'Burak Alp Yasar',
         'title': 'Blog Post 1',
         'content': 'First post content',
         'date_posted': 'Augest 27, 2018',
