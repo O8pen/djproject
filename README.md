@@ -1,6 +1,6 @@
 # djproject
 
-py3_10_2venv
+Python 3.10.2
 
 pip install "django>=3.2, <=3.3"
 
